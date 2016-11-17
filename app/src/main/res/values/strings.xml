@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="a1">My Application</string>
+    <string name="a">My Application</string>
+    <string name="A">My Application</string>
+    <string name="A1">My Application</string>
+    <string name="B">My Application</string>
+    <string name="_A">My Application</string>
+    <string name="$$$$$$$1">My Application</string>
+    <string name="$$$$$$1">My Application</string>
+    <string name="$$$$$$$">My Application</string>
+    <string name="$$$$$$">My Application</string>
+</resources>
